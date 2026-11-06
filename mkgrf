@@ -1,0 +1,18 @@
+#!/bin/bash
+#This file was created on Linux; porting to a different OS should be straigtforward.
+
+GRFBASENAME="German-ish_Town_Names"
+VERSIONFILE="custom_tags.txt"
+VERSIONCUSTOMTAG="DISPVERSION"
+#NMLCOPTS="--verbosity=4 -d"
+NMLCOPTS=""
+
+cd $(dirname "$0")
+
+# Pull the display version from custom_tags.txt and append it to the GRF base name
+VERSION=$(grep "$VERSIONCUSTOMTAG" "$VERSIONFILE"|cut -n -d: -f2)
+GRFNAME="German-ish_Town_Names-$VERSION"
+
+./mknml.py
+
+~/.local/bin/nmlc $NMLCOPTS -o "${GRFNAME}".grf "${GRFNAME}".nml

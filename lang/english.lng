@@ -1,0 +1,10 @@
+##grflangid 0x01
+
+STR_GRF_NAME				:German-ish Town Names {DISPVERSION}
+STR_GRF_DESC				:{PUSH_COLOUR}{GOLD}German-ish Town Names{WHITE} ... with fun. More than 11000 possible names that could be German town names. All nonsense, many of them funny. This NewGRF might allow you to go from Ganz am Anfang to Abseilen auf dem Acker via Bad Turn. At least basic knowledge of the German language helps enjoying this it.{}{YELLOW}{COPYRIGHT}{COPYRIGHT_YEARS} by MarlongGd{}{POP_COLOUR}Licence: {YELLOW}CC-BY-SA 4.0
+
+
+STR_STYLE_NAME_SHORT			:German-ish (only short) Town Names - A Litle Fun
+STR_STYLE_NAME_MEDIUM			:German-ish (short and medium length) Town Names - Half the Fun
+STR_STYLE_NAME_LONG			:German-ish Town Names
+
