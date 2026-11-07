@@ -1,7 +1,7 @@
 ##grflangid 0x02
 
 STR_GRF_NAME				:Deutschige Städtenamen {DISPVERSION}
-STR_GRF_DESC				:{PUSH_COLOUR}{GOLD}Deutschige Städtenamen{WHITE} ... mit Spaß. Über 11.000 mögliche Namen, die deutsche Städte bezeichnen könnten. Alle sinnlos, einige davon lustig. Mit Glück kann man so zum Beispiel von Ganz am Anfang über Links Abbiegen nach Bremswegen fahren.{}{YELLOW}{COPYRIGHT}{COPYRIGHT_YEARS} by MarlongGd{}{POP_COLOUR}Lizenz: {YELLOW}CC-BY-SA 4.0
+STR_GRF_DESC				:{PUSH_COLOUR}{GOLD}Deutschige Städtenamen{WHITE} ... mit Spaß. Tausende mögliche Namen, die deutsche Städte bezeichnen könnten. Alle sinnlos, einige davon lustig. Mit Glück kann man so zum Beispiel von Ganz am Anfang über Links Abbiegen nach Bremswegen fahren.{}{YELLOW}{COPYRIGHT}{COPYRIGHT_YEARS} by MarlongGd{}{POP_COLOUR}Lizenz: {YELLOW}CC-BY-SA 4.0
 
 
 STR_STYLE_NAME_SHORT			:Deutschige Städtenamen (nur kurze) - Etwas Spaß
