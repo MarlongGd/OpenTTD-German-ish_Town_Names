@@ -4,7 +4,7 @@ a NewGRF, designed for the OpenTTD simulation game, hoping you will find it funn
 ## Description
 
 ### English
-Thousands of possible names that could be German town names. All nonsense, many of them funny. This NewGRF might allow you to go from Ganz am Anfang to Abseilen auf dem Acker via Bad Turn. At least basic knowledge of the German language helps enjoying this it.
+Thousands of possible names that could be German town names. All nonsense, many of them funny. This NewGRF might allow you to go from Ganz am Anfang to Abseilen auf dem Acker via Bad Turn. At least basic knowledge of the German language helps enjoying it.
 
 ### German
 Tausende mögliche Namen, die deutsche Städte bezeichnen könnten. Alle sinnlos, einige davon lustig. Mit Glück kann man so zum Beispiel von Ganz am Anfang über Links Abbiegen nach Bremswegen fahren.
