@@ -23,9 +23,9 @@ The original build environment is on Linux. However, I expect that for building 
 
 ### Requirements for building
 
-- nmlc (I used version 0.9, located in ~/.local/bin, otherwise you need do change its path in )
+- nmlc (I used version 0.9, located in ~/.local/bin, otherwise you need do change its path in mknml.py)
 - python (I used version 3.14)
-- bash (the shell for Unix-like systems; required for mkgrf unly; easy to replace)
+- bash (a well-known command shell for Unix-like systems; required for mkgrf only; easy to replace)
 
 ### Building the NewGRF
 
