@@ -10,7 +10,7 @@ NMLCOPTS=""
 cd $(dirname "$0")
 
 # Pull the display version from custom_tags.txt and append it to the GRF base name
-VERSION=$(grep "$VERSIONCUSTOMTAG" "$VERSIONFILE"|cut -n -d: -f2)
+VERSION=$(grep "^$VERSIONCUSTOMTAG" "$VERSIONFILE"|cut -n -d: -f2)
 GRFNAME="German-ish_Town_Names-$VERSION"
 
 ./mknml.py
