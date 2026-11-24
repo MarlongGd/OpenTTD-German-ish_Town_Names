@@ -1,6 +1,10 @@
 Change Log: German-ish Town Names / Deutschige Städtenamen
 ==========================================================
 
+v1.02
+- Fixed a typo in a town name component
+- added a change log
+
 v1.01
 -----
 - Amended various text parts within and around the newGrf,
