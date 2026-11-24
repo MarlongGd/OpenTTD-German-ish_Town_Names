@@ -1,0 +1,12 @@
+Change Log: German-ish Town Names / Deutschige Städtenamen
+==========================================================
+
+v1.01
+-----
+- Amended various text parts within and around the newGrf,
+  keeping it fully compatible with version v1.00,
+  making v1.00 obolete, even for savegames.
+
+v1.00
+-----
+- Initial Release
