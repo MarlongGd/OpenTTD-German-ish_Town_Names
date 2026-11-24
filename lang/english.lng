@@ -6,4 +6,5 @@ STR_GRF_DESC				:{PUSH_COLOUR}{GOLD}German-ish Town Names{WHITE}{}... with fun. 
 STR_STYLE_NAME_SHORT			:German-ish (only short) Town Names - A Litle Fun
 STR_STYLE_NAME_MEDIUM			:German-ish (short and medium length) Town Names - Half the Fun
 STR_STYLE_NAME_LONG			:German-ish Town Names
+STR_GRF_URL				:{WEBSITE}
 

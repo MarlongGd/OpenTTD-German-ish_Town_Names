@@ -139,6 +139,7 @@ with open(OUTPUT+"-"+DISPVERSION+".nml","w") as output_file:
 	grfid: "\\8e\\14\\d3\\00";
 	name: string(STR_GRF_NAME);
 	desc: string(STR_GRF_DESC);
+	url: string(STR_GRF_URL);
     ''')
 	output_file.write(f"\tversion: {INTVERSION};\n\tmin_compatible_version: {MIN_COMPAT_INTVERSION};"+"\n}\n\n")
 

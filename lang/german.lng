@@ -6,3 +6,4 @@ STR_GRF_DESC				:{PUSH_COLOUR}{GOLD}Deutschige Städtenamen{WHITE}{}... mit Spa�
 STR_STYLE_NAME_SHORT			:Deutschige Städtenamen (nur kurze) - Etwas Spaß
 STR_STYLE_NAME_MEDIUM			:Deutschige Städtenamen (auch mittellange) - der halbe  Spaß
 STR_STYLE_NAME_LONG			:Deutschige Städtenamen
+STR_GRF_URL                             :{WEBSITE}
